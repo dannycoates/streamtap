@@ -1,0 +1,20 @@
+{
+  "author": "Danny Coates <dannycoates@gmail.com>",
+  "name": "streamtap",
+  "description": "silently tap into a stream",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dannycoates/streamtap",
+  "repository": {
+    "url": "http://github.com/dannycoates/streamtap.git"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": ">=0.6.0"
+  }
+}
